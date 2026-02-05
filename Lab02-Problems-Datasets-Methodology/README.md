@@ -1,1 +1,10 @@
+## Dataset Description
+The Titanic dataset contains information about passengers aboard the Titanic, such as age, gender, ticket class, etc.  
+The dataset is tabular and stored in CSV format.
 
+## Machine Learning Problem
+This is a **classification problem**.
+The goal of this project is to predict whether a passenger survived the Titanic disaster based on their personal and travel-related attributes.
+
+## Target Variable
+The target variable is **Survived**.
