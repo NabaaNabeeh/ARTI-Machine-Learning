@@ -1,13 +1,20 @@
 # ARTI – Machine Learning
 
-This repository is created for the **Machine Learning** course.  
+This repository showcases my hands-on work for the Machine Learning course labs, focusing on applying core concepts to real-world datasets.
+
+## Projects Included
+- Machine Learning labs applied on the Titanic dataset (Kaggle)
+
+## Tools 
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ## About Me
-Hi! My name is **Nabaa Alaswad**.  
-I am an **Artificial Intelligence student**.
-
-I enjoy learning how machine learning models work and how they can be applied to solve real-world problems using data.
-I am particularly interested in learning about different types of machine learning and how to apply various techniques to effectively solve practical problems.
-
-Looking forward to learning and building more throughout this course :)
+I’m **Nabaa Alaswad**, an Artificial Intelligence student.  
+I’m passionate about applying machine learning techniques to solve real-world problems and continuously improving my practical skills through projects and labs.
 
