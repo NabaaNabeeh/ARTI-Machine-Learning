@@ -3,7 +3,7 @@
 This repository showcases my hands-on work for the Machine Learning course labs, focusing on applying core concepts to real-world datasets.
 
 ## Projects Included
-- Machine Learning labs applied on the Titanic dataset (Kaggle)
+- Machine Learning labs applied on the Titanic dataset (Kaggle) and other datasets
 
 ## Tools 
 - Python
